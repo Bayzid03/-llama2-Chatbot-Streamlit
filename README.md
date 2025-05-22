@@ -25,8 +25,8 @@ This project is a simple chatbot web app built with [Streamlit](https://streamli
 1. **Clone the repository**
 
    ```sh
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone <https://github.com/Bayzid03/-llama2-Chatbot-Streamlit.git>
+   cd <>
    ```
 
 2. **Install dependencies**
